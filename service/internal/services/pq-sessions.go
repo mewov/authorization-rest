@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/gox7/authorizathion/internal/repository"
-	"github.com/gox7/authorizathion/models"
+	"github.com/mewov/authorization-rest/internal/repository"
+	"github.com/mewov/authorization-rest/models"
 )
 
 type (

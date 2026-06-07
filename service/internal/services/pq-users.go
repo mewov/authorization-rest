@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/gox7/authorizathion/internal/repository"
-	"github.com/gox7/authorizathion/models"
-	"github.com/gox7/authorizathion/pkg/validator"
+	"github.com/mewov/authorization-rest/internal/repository"
+	"github.com/mewov/authorization-rest/models"
+	"github.com/mewov/authorization-rest/pkg/validator"
 	"golang.org/x/crypto/bcrypt"
 )
 

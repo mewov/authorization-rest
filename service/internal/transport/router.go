@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/gox7/authorizathion/internal/services"
-	"github.com/gox7/authorizathion/internal/transport/handlers/v1"
-	"github.com/gox7/authorizathion/internal/transport/middleware"
-	"github.com/gox7/authorizathion/models"
+	"github.com/mewov/authorization-rest/internal/services"
+	"github.com/mewov/authorization-rest/internal/transport/handlers/v1"
+	"github.com/mewov/authorization-rest/internal/transport/middleware"
+	"github.com/mewov/authorization-rest/models"
 )
 
 var (

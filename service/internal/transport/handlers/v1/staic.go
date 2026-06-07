@@ -2,8 +2,8 @@ package v1
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/gox7/authorizathion/internal/services"
-	"github.com/gox7/authorizathion/models"
+	"github.com/mewov/authorization-rest/internal/services"
+	"github.com/mewov/authorization-rest/models"
 )
 
 var (

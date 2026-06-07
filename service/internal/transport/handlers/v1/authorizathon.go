@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/gox7/authorizathion/models"
-	"github.com/gox7/authorizathion/pkg/tokens"
+	"github.com/mewov/authorization-rest/models"
+	"github.com/mewov/authorization-rest/pkg/tokens"
 )
 
 type (

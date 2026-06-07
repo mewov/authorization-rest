@@ -4,10 +4,10 @@ import (
 	"log/slog"
 
 	"github.com/gin-gonic/gin"
-	"github.com/gox7/authorizathion/internal/repository"
-	"github.com/gox7/authorizathion/internal/services"
-	"github.com/gox7/authorizathion/internal/transport"
-	"github.com/gox7/authorizathion/models"
+	"github.com/mewov/authorization-rest/internal/repository"
+	"github.com/mewov/authorization-rest/internal/services"
+	"github.com/mewov/authorization-rest/internal/transport"
+	"github.com/mewov/authorization-rest/models"
 )
 
 func main() {
